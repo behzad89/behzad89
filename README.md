@@ -7,7 +7,7 @@
 
 I am a PhD Candidate at Swiss TPH institute. My research interests include Geographic Information Science (GIS), remote sensing (RS), and environmental modeling. More specifically, I am interested in applying geospatial big data, GeoAI (machine learning and Deep learning) , and cloud computing (e.g., AWS, Azure etc.) to study Health & Environmental effects of air pollution & climage changes.
 
-I always like to keep connection with industory, therefore in the past two years I am working as Geo-data Eng. in CollectiveCrunch oy. as SaaS startup. I process the wide range of sources including climate, and geo data (e.g. airborn & satellite imageries, vector). The data is crunched into AI models to provide you with accurate predictions of forest inventories and carbon storage. 
+I always like to keep connection with industory, therefore in the past two years I am working as Geo-data Eng. in CollectiveCrunch oy. as SaaS startup. I process the wide range of sources including climate, and geo data (e.g. airborn & satellite imageries). The data is crunched into AI models to provide you with accurate predictions of forest inventories and carbon storage. 
 
 ## 🔭 Developed Python Packages
 
