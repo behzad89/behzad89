@@ -21,7 +21,7 @@ I always like to keep connection with industory, therefore in the past two years
 - EPOCHAL: Effects of Pollen on Cardiorespiratory Health and Allergies
   - The EPOCHAL study is investigating how different concentrations of pollen from trees, grasses and weeds affect the heart, lungs, brain, sleep and quality of life.
 
-<center><img src="https://www.swisstph.ch/fileadmin/_processed_/c/3/csm_EPOCHAL_63dcbb694a.png" width="300" height="150"/></center>
+<center><img src="https://www.swisstph.ch/fileadmin/_processed_/c/3/csm_EPOCHAL_63dcbb694a.png" width="400" height="150"/></center>
 
 - EXPANSE: EXposome Powered tools for healthy living in urbAN SEttings
   - The main aim of the EXPANSE project is to address one of the most pertinent questions for urban planners, policy makers, and inhabitants in Europe
@@ -31,7 +31,7 @@ I always like to keep connection with industory, therefore in the past two years
 - Linda Scout: provides detailed insight into the inventory of forest properties.
 - Linda Damage: provides the details about the damages forest stand after wind storms.
 
-<center><img src="https://www.collectivecrunch.com/wp-content/uploads/2019/06/CC-full-logo-white-copy.jpg" width="300" height="150"/></center>
+<center><img src="https://www.collectivecrunch.com/wp-content/uploads/2019/06/CC-full-logo-white-copy.jpg" width="400" height="150"/></center>
 
 
 ## ⚡ Technologies
