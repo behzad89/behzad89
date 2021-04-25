@@ -29,7 +29,7 @@ I always like to keep connection with industory, therefore in the past two years
 <center><img src="https://www.isglobal.org/documents/10179/8304240/expanse+project/21883b47-1488-432b-8840-9a12374c9e05?t=1617967268527" width="300" height="150"/></center>
 
 - Linda Scout: provides detailed insight into the inventory of forest properties.
-- Linda Damage: provides the details about the damages forest stand after wind storms.
+- Linda Damage: provides the details about the damaged forest stand after wind storms.
 
 <center><img src="https://www.collectivecrunch.com/wp-content/uploads/2019/06/CC-full-logo-white-copy.jpg" width="400" height="150"/></center>
 
