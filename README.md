@@ -9,7 +9,7 @@ I am a PhD Candidate at Swiss TPH institute. My research interests include Geogr
 
 I always like to keep connection with industory, therefore in the past two years I am working as Geo-data Eng. in CollectiveCrunch oy. as SaaS startup. I process the wide range of sources including weather information for many years back; soil classifications; optical and other images taken from satellites, LIDAR information and much, much more. The data is crunched into AI models to provide you with accurate predictions of forest inventories, forest damages and carbon storage. 
 
-## 🔭 Developed Python Packages
+## 🔭 Python Packages
 
 - Developed Python CLI package (**senhub_batchapi**) to query on terminal and create request in Sentinel-HUB Batch API to create non-cloudy tiles to make mosaic.
 - Developing Geo-Data Engineer Python package (**geoutils**) with five modules including: Grid, Cube, ModisAPI, DataExtraction, DataClean. The toolkit may be used to put together the huge Geospatial data for modeling purposes.
