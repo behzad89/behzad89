@@ -18,6 +18,8 @@ I always like to keep connection with industory, therefore in the past two years
 - PoCHAS: Pollen and Cardiorespiratory Health and Allergic Symptoms
   - The PoCHAS project aims to model the ambient exposure to airborne pollen retrospectively using spatiotemporal models.
 
+<center><img src="https://www.swisstph.ch/fileadmin/user_upload/SwissTPH/TIPPPs/Projects/Logo_design.png" width="400" height="150"/></center>
+
 - EPOCHAL: Effects of Pollen on Cardiorespiratory Health and Allergies
   - The EPOCHAL study is investigating how different concentrations of pollen from trees, grasses and weeds affect the heart, lungs, brain, sleep and quality of life.
 
