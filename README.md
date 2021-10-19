@@ -62,7 +62,7 @@ I always like to keep connection with industory, therefore in the past two years
 
 ![stats](https://github-readme-stats.vercel.app/api?username=behzad89&show_icons=true&count_private=true&title_color=f7d745&text_color=b2d76c&icon_color=6562af&bg_color=00000000&hide=bg-color&hide_border=true&count_private=true)
 
-![mobidl](https://github-readme-stats.vercel.app/api/pin/?username=behzad89&repo=Esti-LULC-Map-XGboost&show_owner=true&title_color=f7d745&text_color=b2d76c&icon_color=6562af&bg_color=00000000&hide=bg-color&hide_border=true)
+<!-- ![mobidl](https://github-readme-stats.vercel.app/api/pin/?username=behzad89&repo=Esti-LULC-Map-XGboost&show_owner=true&title_color=f7d745&text_color=b2d76c&icon_color=6562af&bg_color=00000000&hide=bg-color&hide_border=true) -->
 
 ![mobidl](https://github-readme-stats.vercel.app/api/pin/?username=behzad89&repo=SQL_GDAL_Commnds&show_owner=true&title_color=f7d745&text_color=b2d76c&icon_color=6562af&bg_color=00000000&hide=bg-color&hide_border=true)
 
