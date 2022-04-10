@@ -12,7 +12,8 @@ I always like to keep connection with industory, therefore in the past two years
 ## Python Packages
 
 - Developed Python CLI package (**senhub_batchapi**) to query on terminal and create request in Sentinel-HUB Batch API to create non-cloudy tiles to make mosaic.
-- Developing Geo-Data Engineer Python package (**geoutils**) with five modules including: Grid, Cube, ModisAPI, DataExtraction, DataClean. The toolkit may be used to put together the huge Geospatial data for modeling purposes.
+- Developing Geo-Data Engineer Python package ([**pochas-geoutils**](https://pochas-geoutils.readthedocs.io/en/latest/?badge=latest#)) with 
+eight modules including: Grid, Cube, ModisAPI, DataExtraction, DataClean. The toolkit may be used to put together the huge Geospatial data for modeling purposes.
 
 ## Current Projects:
 - PoCHAS: Pollen and Cardiorespiratory Health and Allergic Symptoms
